@@ -31,3 +31,34 @@ It's nice that his imagination is still in its infancy and he didn't get to my b
 Well, another day has passed, I’ve put some more money into my bank account and added a fraction of the year to my years spent in IT. 
 
 Now that the work for today is over, I can get on with my hobby and code for myself, because, you know, vertical mushroom farms do not build themselves.
+
+====================================== Proofread:
+A Day in the Life of a Python Machine Learning Engineer.
+
+My day starts very early, around 11 o'clock. I know what you are thinking, but you have to be flexible - if your job is truly your passion, you will work day and night, coz passion never sleeps.
+
+My profession and the ability to work and earn money from home has obvious perks - I only spend a few minutes commuting from the dining room down the corridor to my office, but I'm thinking of turning my chair into a scooter so I can get there faster.
+
+Machine Learning is a booming field, the great and terrible Artificial Intelligence is penetrating all major areas of our lives: from ice cream sales forecasting, to facial recognition and the development of machines that may one day decide to rise against us.
+
+The secret to success in this profession is quite simple - you need to sit in a chair and do what you love, even if you are not in the mood today. The artificial mind does not suffer from mood swings; be like this guy, be a professional.
+
+While my model is training, in the meantime, I can quickly cool off in the pool.
+
+The model has finished training, and although I’m generally satisfied with the results, I am sure that it can do even better if I change a few hyperparameters.
+
+Remember to keep your back straight and your elbows bent at a right angle during coding, why? Because good habits yield positive results, so don’t forget to eat your vegetables and comment your code properly.
+
+While I’m fine-tuning my model again, I have some time to read. Never stop being curious in various areas, because you never know where else artificial intelligence could be applied. For example, vertical mushroom farms, that sounds like a billion-dollar idea!
+
+Sometimes you have to attend them… the meetings. What has been done, what else can be done, what has been closed, what has been opened.
+
+Even if you don’t have to actually get up from your chair to go to them, these meetings are the unfortunate side-effect of any teamwork. Here’s my tip on how not to screw up a meeting - try to look like you are deeply interested in the subject while doing your best not to fall asleep.
+
+New assignments have arrived because our product manager was struck by a brilliant idea while he was taking a shower, and now we have to implement it.
+
+It's nice that his imagination is still in its infancy and he didn't think of my brilliant idea for ​​a vertical mushroom farm, otherwise I would be very angry. And when I'm angry, I open my angry cookie jar that I bought for special angry occasions... and I also make angry eyebrows.
+
+Well, another day has passed, I’ve put some more money in my bank account and added a few more hours to my years spent in IT.
+
+Now that the work for today is over, I can get on with my hobby and code for myself, because, you know, vertical mushroom farms do not build themselves.
